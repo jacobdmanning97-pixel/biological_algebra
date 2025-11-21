@@ -1,0 +1,8 @@
+targets, factors
+A, M & !0
+B, M
+C, !0
+M, C & !P
+P, !W & !WM
+W, 0 & B
+WM, (1 & B) | 0 | W
