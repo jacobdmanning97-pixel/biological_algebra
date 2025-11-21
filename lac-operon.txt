@@ -1,0 +1,6 @@
+targets, factors
+M, A
+B, M
+P, M
+A, A | (L & B) | (L & !P)
+L, P | (L & !B)
